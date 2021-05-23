@@ -22,7 +22,7 @@
       "skipLibCheck": true /* Skip type checking of declaration files. */,
       "forceConsistentCasingInFileNames": true 
     },
-    "include": ["src/**/*"],
+    "include": ["src/**/*", "src/tests"],
   "exclude": ["src/types/*.ts", "node_modules", ".vscode"]
   }
   
